@@ -22,7 +22,7 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 
 ### Tecnologia
 
--- **Fundamentos do Suporte Técnico**
+ **Fundamentos do Suporte Técnico**
   - **Emissora**: Google/Coursera
   - **Data de finalização**: 16/06/2023
   - **Carga horária**: 24 horas
@@ -30,7 +30,7 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
   - **Habilidades**: Código Binário, Suporte ao Cliente, Linux, Solução de Problemas
   - [Mostrar](tecnologia.inf/suporte%20tecnico.pdf)
 ---
-- **Estrutura e Funcionamento das Redes de Computadores**
+ **Estrutura e Funcionamento das Redes de Computadores**
   - **Emissora**: Google/Coursera
   - **Data de finalização**: 05/07/2023
   - **Carga horária**: 30 horas  
@@ -38,7 +38,7 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
   - **Habilidades**: Ipv4, Resolução de problemas, Modelo de rede, Sistema de Nomes de Domínio (DNS)  
   - [Mostrar](tecnologia.inf/est.%20funcionamento%20comp.pdf)
 ---
-- *- **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
+ **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
   - **Emissora**: Google
   - **Data de finalização**: Julho/2023
   - **Carga horária**: 37 horas
