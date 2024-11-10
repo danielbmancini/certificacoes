@@ -9,8 +9,8 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
     - [Contabilidade](#contabilidade)
     - [Tecnologia](#tecnologia)
     - [Outros](#outros)
-    - [Projetos](#projetos)
-  - [Contato](#contato)
+- [Projetos](#projetos)
+- [Contato](#contato)
 
 ---
 
@@ -66,7 +66,7 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 
 ---
 
-### <h1>Projetos</h1>
+# Projetos
 
 - **Cansa-Vision**
   - **Descrição:** Automatização do preenchimento de cartões-pontos para planilhas pré-prontas.
@@ -79,6 +79,6 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 
 ---
 
-## <h1>Contato</h1>
+# Contato
 
 Para mais informações, entre em contato comigo por [LinkedIn](https://www.linkedin.com/in/daniel-brambila-mancini/) ou pelo e-mail [danielbmancini@gmail.com](mailto:danielbmancini@gmail.com).
