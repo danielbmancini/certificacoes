@@ -4,49 +4,64 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 
 ## Índice
 
-1. [Contabilidade](#contabilidade)
-2. [Nuvem e Computação em Nuvem](#nuvem)
-2. [Tecnologia da Informação](#nuvem)
-4. [Outras certificações](#outras)
+- [Certificados e Habilidades](#certificados-e-habilidades)
+  - [Índice](#índice)
+    - [Contabilidade](#contabilidade)
+    - [Nuvem](#nuvem)
+    - [Tecnologia](#tecnologia)
+    - [Outras](#outras)
+  - [Contato](#contato)
+
 ---
 
 ### Contabilidade
 
+- **Excel para contadores 2024**
+  - **Emissora**: CEFIT
+  - **Data de finalização**: nov/2024
+  - **Carga horária**: 3 Horas e 50 Minutos
+  - **Nota**: -
+  - **Descrição**: Este curso aborda temas essenciais para contadores que utilizam o Excel, como importação de arquivos, uso de filtros, aplicação de funções, manipulação de datas e uso de condições. Apresenta ainda exemplos práticos voltados para NFe, extratos bancários e balancetes, finalizando com uma comparação entre Excel e Google Sheets.
+  - [Mostrar](contabilidade/excel%20para%20contadores.pdf)
 
 ---
 
 ### Nuvem
-
 
 ---
 
 ### Tecnologia
 
  **Fundamentos do Suporte Técnico**
-  - **Emissora**: Google/Coursera
-  - **Data de finalização**: 16/06/2023
-  - **Carga horária**: 24 horas
-  - **Nota**: 99.06%
-  - **Habilidades**: Código Binário, Suporte ao Cliente, Linux, Solução de Problemas
-  - [Mostrar](tecnologia.inf/suporte%20tecnico.pdf)
+
+- **Emissora**: Google/Coursera
+- **Data de finalização**: 16/06/2023
+- **Carga horária**: 24 horas
+- **Nota**: 99.06%
+- **Habilidades**: Código Binário, Suporte ao Cliente, Linux, Solução de Problemas
+- [Mostrar](tecnologia.inf/suporte%20tecnico.pdf)
+
 ---
  **Estrutura e Funcionamento das Redes de Computadores**
-  - **Emissora**: Google/Coursera
-  - **Data de finalização**: 05/07/2023
-  - **Carga horária**: 30 horas  
-  - **Nota**: 87.54%  
-  - **Habilidades**: Ipv4, Resolução de problemas, Modelo de rede, Sistema de Nomes de Domínio (DNS)  
-  - [Mostrar](tecnologia.inf/est.%20funcionamento%20comp.pdf)
+
+- **Emissora**: Google/Coursera
+- **Data de finalização**: 05/07/2023
+- **Carga horária**: 30 horas  
+- **Nota**: 87.54%  
+- **Habilidades**: Ipv4, Resolução de problemas, Modelo de rede, Sistema de Nomes de Domínio (DNS)  
+- [Mostrar](tecnologia.inf/est.%20funcionamento%20comp.pdf)
+
 ---
  **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
-  - **Emissora**: Google
-  - **Data de finalização**: Julho/2023
-  - **Carga horária**: 37 horas
-  - **Nota**: 97%
-  - **Habilidades**: Powershell, Linux, Sistemas de Arquivos do Linux, Interface de Comando
-  - [Mostrar](tecnologia.inf/sistemas%20operacionais.pdf)
----
 
+- **Emissora**: Google
+- **Data de finalização**: Julho/2023
+- **Carga horária**: 37 horas
+- **Nota**: 97%
+- **Habilidades**: Powershell, Linux, Sistemas de Arquivos do Linux, Interface de Comando
+- [Mostrar](tecnologia.inf/sistemas%20operacionais.pdf)
+
+---
 
 ### Outras
 
