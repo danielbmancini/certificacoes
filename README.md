@@ -57,9 +57,9 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 
 ---
 
-### Outras
+### Outros
 
-- **Titulo do certificado**  
+- **Gestão de Pessoas**  
   - **Emissora:** SEBRAE
   - **Carga horária**: 8h
   - **Nota**: -
