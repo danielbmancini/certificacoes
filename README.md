@@ -1,14 +1,15 @@
-# Certificados e Habilidades
+# Certificados e Projetos
 
-Este repositório reúne minhas certificações profissionais e técnicas. As certificações estão organizadas por área para facilitar a navegação e revisão.  
+Este repositório reúne minhas certificações profissionais e técnicas, além de alguns projetos. As certificações estão organizadas por área para facilitar a navegação e revisão.  
 
-## Índice
+## Categoria
 
-- [Certificados e Habilidades](#certificados-e-habilidades)
-  - [Índice](#índice)
+- [Certificados e Projetos](#certificados-e-projetos)
+  - [Categoria](#categoria)
     - [Contabilidade](#contabilidade)
     - [Tecnologia](#tecnologia)
     - [Outros](#outros)
+    - [Projetos](#projetos)
   - [Contato](#contato)
 
 ---
@@ -29,7 +30,6 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
  **Fundamentos do Suporte Técnico**
 
 - **Emissora**: Google/Coursera
-- **Data de finalização**: 16/06/2023
 - **Carga horária**: 24 horas
 - **Nota**: 99.06%
 - **Habilidades**: Código Binário, Suporte ao Cliente, Linux, Solução de Problemas
@@ -39,7 +39,6 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
  **Estrutura e Funcionamento das Redes de Computadores**
 
 - **Emissora**: Google/Coursera
-- **Data de finalização**: 05/07/2023
 - **Carga horária**: 30 horas  
 - **Nota**: 87.54%  
 - **Habilidades**: Ipv4, Resolução de problemas, Modelo de rede, Sistema de Nomes de Domínio (DNS)  
@@ -49,7 +48,6 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
  **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
 
 - **Emissora**: Google
-- **Data de finalização**: Julho/2023
 - **Carga horária**: 37 horas
 - **Nota**: 97%
 - **Habilidades**: Powershell, Linux, Sistemas de Arquivos do Linux, Interface de Comando
@@ -68,8 +66,19 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 
 ---
 
+### <h1>Projetos</h1>
+
+- **Cansa-Vision**
+  - **Descrição:** Automatização do preenchimento de cartões-pontos para planilhas pré-prontas.
+  - **Post do LinkedIn:** [o post](https://www.linkedin.com/posts/daniel-brambila-mancini_automaaexaeto-inteligaeanciaartificial-azurecomputervision-activity-7252196580638789632-OM3O?utm_source=share&utm_medium=member_desktop)
+ 
+- **Repite-Vision**
+  - **Descrição:** pontos-de-funcionario -> versão anterior ao Cansa-Vision
+  - **Descrição:** processando-documentos-impressos -> Coleta informações de um diretório de fotos de documentos velhos em um arquivo csv.
+  - **Repositório:**  [Repite-Vision](https://github.com/danielbmancini/Repite-AzureVision)
+
 ---
 
-## Contato
+## <h1>Contato</h1>
 
 Para mais informações, entre em contato comigo por [LinkedIn](https://www.linkedin.com/in/daniel-brambila-mancini/) ou pelo e-mail [danielbmancini@gmail.com](mailto:danielbmancini@gmail.com).
