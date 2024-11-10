@@ -8,7 +8,7 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
   - [Índice](#índice)
     - [Contabilidade](#contabilidade)
     - [Tecnologia](#tecnologia)
-    - [Outras](#outras)
+    - [Outros](#outros)
   - [Contato](#contato)
 
 ---
