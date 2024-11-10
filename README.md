@@ -7,7 +7,6 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 - [Certificados e Habilidades](#certificados-e-habilidades)
   - [Índice](#índice)
     - [Contabilidade](#contabilidade)
-    - [Nuvem](#nuvem)
     - [Tecnologia](#tecnologia)
     - [Outras](#outras)
   - [Contato](#contato)
@@ -18,15 +17,10 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 
 - **Excel para contadores 2024**
   - **Emissora**: CEFIT
-  - **Data de finalização**: nov/2024
   - **Carga horária**: 3 Horas e 50 Minutos
   - **Nota**: -
   - **Descrição**: Este curso aborda temas essenciais para contadores que utilizam o Excel, como importação de arquivos, uso de filtros, aplicação de funções, manipulação de datas e uso de condições. Apresenta ainda exemplos práticos voltados para NFe, extratos bancários e balancetes, finalizando com uma comparação entre Excel e Google Sheets.
   - [Mostrar](contabilidade/excel%20para%20contadores.pdf)
-
----
-
-### Nuvem
 
 ---
 
@@ -64,6 +58,15 @@ Este repositório reúne minhas certificações profissionais e técnicas. As ce
 ---
 
 ### Outras
+
+- **Titulo do certificado**  
+  - **Emissora:** SEBRAE
+  - **Carga horária**: 8h
+  - **Nota**: -
+  - **Descrição**: O curso abrange desde os fundamentos da gestão de pessoas até temas mais específicos como recrutamento, desenvolvimento de equipes, liderança, motivação e gestão de conflitos. O objetivo é fornecer aos participantes as ferramentas e conhecimentos necessários para atuar de forma eficaz na área de gestão de pessoas, contribuindo para o sucesso das organizações.
+  - [Mostrar](outros/gestão%20de%20pessoas.pdf)
+
+---
 
 ---
 
