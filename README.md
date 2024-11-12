@@ -27,7 +27,7 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - **KPI's para escritórios contábeis**  
   - **Emissora:** CEFIS
   - **Nota**: -
-  - **Habilidades:*Função controle. Definição da meta. Aumento da Receita Bruta. Variação da carteira. Churn rate. Ticket Médio. Life Time Value. ROI. Aderência ao Orçamento. Gasto por Tipo. Lucratividade. OTIF e NPS. Índice de satisfação.*
+  - **Habilidades:** Função controle. Definição da meta. Aumento da Receita Bruta. Variação da carteira. Churn rate. Ticket Médio. Life Time Value. ROI. Aderência ao Orçamento. Gasto por Tipo. Lucratividade. OTIF e NPS. Índice de satisfação.*
   - [Mostrar](contabilidade/KPIS.pdf)
   
 ---
