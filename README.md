@@ -8,6 +8,7 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
   - [Categoria](#categoria)
     - [Contabilidade](#contabilidade)
     - [Tecnologia](#tecnologia)
+    - [Ferramentas](#ferramentas)
     - [Outros](#outros)
 - [Projetos](#projetos)
 - [Contato](#contato)
@@ -27,7 +28,7 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 
 ### Tecnologia
 
- **Fundamentos do Suporte Técnico**
+- **Fundamentos do Suporte Técnico**
 
 - **Emissora**: Google/Coursera
 - **Carga horária**: 24 horas
@@ -36,7 +37,8 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - [Mostrar](tecnologia.inf/suporte%20tecnico.pdf)
 
 ---
- **Estrutura e Funcionamento das Redes de Computadores**
+
+- **Estrutura e Funcionamento das Redes de Computadores**
 
 - **Emissora**: Google/Coursera
 - **Carga horária**: 30 horas  
@@ -45,13 +47,24 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - [Mostrar](tecnologia.inf/est.%20funcionamento%20comp.pdf)
 
 ---
- **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
+
+- **Sistemas Operacionais e Você: Tornando-se um Usuário Avançado**
 
 - **Emissora**: Google
 - **Carga horária**: 37 horas
 - **Nota**: 97%
 - **Habilidades**: Powershell, Linux, Sistemas de Arquivos do Linux, Interface de Comando
 - [Mostrar](tecnologia.inf/sistemas%20operacionais.pdf)
+
+---
+
+### Ferramentas
+
+- **Tabelas Dinâmicas para Iniciantes (Excel)**  
+  - **Emissora: LinkedIn Learning**
+  - **Nota**: -
+  - **Habilidades**: Pivot Tables, Excel
+  - [Mostrar](ferramentas/CertificadoDeConclusao_Excel%20PivotTables%20for%20Beginners.pdf)
 
 ---
 
@@ -71,7 +84,7 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - **Cansa-Vision**
   - **Descrição:** Automatização do preenchimento de cartões-pontos para planilhas pré-prontas.
   - **Post do LinkedIn:** [o post](https://www.linkedin.com/posts/daniel-brambila-mancini_automaaexaeto-inteligaeanciaartificial-azurecomputervision-activity-7252196580638789632-OM3O?utm_source=share&utm_medium=member_desktop)
- 
+
 - **Repite-Vision**
   - **Descrição:** pontos-de-funcionario -> versão anterior ao Cansa-Vision
   - **Descrição:** processando-documentos-impressos -> Coleta informações de um diretório de fotos de documentos velhos em um arquivo csv.
