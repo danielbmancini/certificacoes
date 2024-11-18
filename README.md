@@ -20,15 +20,19 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - **Excel para contadores 2024**
   - **Emissora**: CEFIS
   - **Carga horária**: 3 Horas e 50 Minutos
-  - **Nota**: -
   - **Descrição**: Este curso aborda temas essenciais para contadores que utilizam o Excel, como importação de arquivos, uso de filtros, aplicação de funções, manipulação de datas e uso de condições. Apresenta ainda exemplos práticos voltados para NFe, extratos bancários e balancetes, finalizando com uma comparação entre Excel e Google Sheets.
   - [Mostrar](contabilidade/excel%20para%20contadores.pdf)
 
 - **KPI's para escritórios contábeis**  
   - **Emissora:** CEFIS
-  - **Nota**: -
   - **Habilidades:** Função controle. Definição da meta. Aumento da Receita Bruta. Variação da carteira. Churn rate. Ticket Médio. Life Time Value. ROI. Aderência ao Orçamento. Gasto por Tipo. Lucratividade. OTIF e NPS. Índice de satisfação.*
   - [Mostrar](contabilidade/KPIS.pdf)
+  
+- **Contabilidade Rural**  
+  - **Emissora:** CEFIS
+  - **Carga horária:** 5h
+  - **Habilidades:** Culturas temporárias. Setor agrícola. Formas de exploração. Impostos. Plano de contas especifico. Legislação. NBC TG 29. Mensuração. Divulgação.
+  - [Mostrar](contabilidade/cont%20rural.pdf)
   
 ---
 
