@@ -111,8 +111,9 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
   - **Repositório** [Permutations_groupTheory](https://github.com/danielbmancini/Permutations_groupTheory)
 
 - **JHTP8_JCP8_Sol._Comentadas** 
-  - **Descrição** Soluções de exercicicios interessantes de quase todos os capítulos do livro (aprox. 1000 páginas).
+  - **Descrição** Soluções de exercícios interessantes de quase todos os capítulos do livro (aprox. 1000 páginas).
   - **Repositório** [JHTP8_JCP8_Sol._Comentadas](https://github.com/danielbmancini/JHTP8_JCP8_Sol._Comentadas)
+
 ---
 
 # Contato:
