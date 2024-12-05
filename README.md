@@ -94,14 +94,27 @@ Este repositório reúne minhas certificações profissionais e técnicas, além
 - **Cansa-Vision**
   - **Descrição:** Automatização do preenchimento de cartões-pontos para planilhas pré-prontas.
   - **Post do LinkedIn:** [o post](https://www.linkedin.com/posts/daniel-brambila-mancini_automaaexaeto-inteligaeanciaartificial-azurecomputervision-activity-7252196580638789632-OM3O?utm_source=share&utm_medium=member_desktop)
+  - **Repositório:** [Cansa-Vision](https://github.com/danielbmancini/Cansa-Vision)
 
 - **Repite-Vision**
   - **Descrição:** pontos-de-funcionario -> versão anterior ao Cansa-Vision
   - **Descrição:** processando-documentos-impressos -> Coleta informações de um diretório de fotos de documentos velhos em um arquivo csv.
   - **Repositório:**  [Repite-Vision](https://github.com/danielbmancini/Repite-AzureVision)
 
+- **titanic-regression**
+  - **Descrição:** Aprendizado em máquina feito puramente em Java para o treino de rede neural do desafio titanic da plataforma Kaggle (prever quais passageiros do Titanic sobreviveram com base em dados como classe social, sexo, idade e número de familiares a bordo.)
+  - **Post do LinkedIn**  [o post](https://www.linkedin.com/posts/daniel-brambila-mancini_dl4j-ilustra%C3%A7%C3%A3o-activity-7269781691269881856-mmca?utm_source=share&utm_medium=member_desktop)
+  - **Repositório** [titanic-regression](https://github.com/danielbmancini/titanic-regression)
+
+- **Permutations_groupTheory**
+  - **Descrição:** API completa e documentada para cálculos da área matemática Teoria dos Grupos, especificamente com os objetos matemáticos permutações.
+  - **Repositório** [Permutations_groupTheory](https://github.com/danielbmancini/Permutations_groupTheory)
+
+- **JHTP8_JCP8_Sol._Comentadas** 
+  -**Descrição** Soluções de exercicicios interessantes de quase todos os capítulos do livro (aprox. 1000 páginas).
+  -**Repositório** [JHTP8_JCP8_Sol._Comentadas](https://github.com/danielbmancini/JHTP8_JCP8_Sol._Comentadas)
 ---
 
-# Contato
+# Contato:
 
 Para mais informações, entre em contato comigo por [LinkedIn](https://www.linkedin.com/in/daniel-brambila-mancini/) ou pelo e-mail [danielbmancini@gmail.com](mailto:danielbmancini@gmail.com).
